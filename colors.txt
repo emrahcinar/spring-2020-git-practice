@@ -1,6 +1,4 @@
 red
 pink
 green
-yellow
-blue
-purple
+
