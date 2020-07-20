@@ -8,11 +8,9 @@ Tesla
 BMW
 Jaguar
 Bentley
-<<<<<<< Updated upstream
 Jeep
-=======
 Hyundai
 Nissan
 Lexus
 Ferrari
->>>>>>> Stashed changes
+
