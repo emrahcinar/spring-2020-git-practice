@@ -2,3 +2,8 @@ red
 pink
 green
 yellow
+blue
+purple
+black
+white
+grey
