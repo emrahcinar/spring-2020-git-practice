@@ -4,8 +4,8 @@ green
 blue
 pink
 orange
-<<<<<<< HEAD
 ###brown
-=======
 purple
->>>>>>> b3a3fa989621321337097b776927ae387a7a04c5
+white
+yellow
+
